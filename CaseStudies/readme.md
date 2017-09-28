@@ -9,4 +9,10 @@
 **Зависимая переменная**: CONSTRUCTION: *грузить телегу сеном* (**"goal"** construction) -- *грузить сено на телегу* (**"theme"** construction).  
 Файл с данными: [Ch4data.csv](http://emptyprefixes.uit.no/Ch4data.csv), R script: [Ch4.R](http://emptyprefixes.uit.no/Ch4.R)  
 
+## 2. Конструкции глагола *путать*
+По данным работы Nordrum 2016. [Папка с данными](https://github.com/olesar/hsecxg/tree/master/CaseStudies/Putat)
+
+## 3. Конструкционные подходы к морфологии: русские композиты
+По данным работы Naccarato, forthcoming. [R markdown (html)](https://github.com/olesar/hsecxg/blob/master/CaseStudies/Composites/Binomial_logistic_regression.html)
+
 
