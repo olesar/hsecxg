@@ -1,0 +1,639 @@
+Number	Corpus	Prefix	Construction	Number	Negation	Intensifier
+1	Modern subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+2	Modern subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+3	Modern subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+4	Modern subcorpus	Pere	NPnom V (make unclear)	No direct object	Negation	No intensifier
+5	Old subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+6	Old subcorpus	Pere	NPnom V NPacc и NPacc (tangle)	Plural	No negation	No intensifier
+7	Old subcorpus	Pere	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+8	Old subcorpus	Pere	NPnom V NPacc NPins (tangle)	Singular	No negation	No intensifier
+9	Old subcorpus	Pere	NPnom V (mix up)	No direct object	Negation	No intensifier
+10	Old subcorpus	Pere	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+11	Old subcorpus	Pere	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+12	Old subcorpus	Pere	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+13	Old subcorpus	Pere	NPnom V NPacc с NPins (mix up)	Plural	No negation	No intensifier
+14	Old subcorpus	Pere	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+15	Old subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+16	Old subcorpus	Pere	NPnom V Vinf NPacc с NPins (mix up)	Plural	No negation	No intensifier
+17	Old subcorpus	Pere	NPnom V NPacc NPins (tangle)	Singular	Negation	No intensifier
+18	Old subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+19	Old subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+20	Old subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+21	Old subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+22	Old subcorpus	Pere	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+23	Old subcorpus	Pere	NPnom V NPacc с NPins (tangle(	Singular	No negation	No intensifier
+24	Old subcorpus	Pere	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+25	Old subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+26	Old subcorpus	Pere	NPnom V (confuse)	No direct object	No negation	No intensifier
+27	Old subcorpus	Pere	NPnom V NPacc с NPins (mix up)	Plural	No negation	No intensifier
+28	Old subcorpus	Pere	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+29	Old subcorpus	Pere	NPnom V NPacc с NPins (mix up)	Plural	No negation	No intensifier
+30	Old subcorpus	Pere	NPnom V NPacc NPins (mix up)	Singular	No negation	No intensifier
+31	Old subcorpus	Pere	NPnom V NPins (confuse)	No direct object	No negation	No intensifier
+32	Old subcorpus	Pere	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+33	Old subcorpus	Pere	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+34	Old subcorpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+35	Newspaper corpus	Pere	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+36	Modern subcorpus	S	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+37	Modern subcorpus	S	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+38	Modern subcorpus	S	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+39	Modern subcorpus	S	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+40	Modern subcorpus	S	NPnom V Vinf NPacc в NPacc (tangle)	Singular	No negation	No intensifier
+41	Modern subcorpus	S	NPnom V NPacc в NPacc (tangle)	Plural	No negation	No intensifier
+42	Modern subcorpus	S	NPnom V NPacc с NPins (tangle(	Plural	Negation	No intensifier
+43	Modern subcorpus	S	NPnom V NPacc (tangle)	Singular	No negation	No intensifier
+44	Modern subcorpus	S	NPnom V Vinf NPacc NPdat (tangle)	Plural	No negation	No intensifier
+45	Modern subcorpus	S	NPnom V NPacc с NPins (mix up)	Plural	No negation	No intensifier
+46	Modern subcorpus	S	NPnom V NPacc с NPins (mix up)	Plural	Negation	No intensifier
+47	Modern subcorpus	S	NPnom V NPacc с NPins (mix up)	Singular	Negation	No intensifier
+48	Modern subcorpus	S	NPnom V Vinf (tangle)	No direct object	No negation	No intensifier
+49	Modern subcorpus	S	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+50	Modern subcorpus	S	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+51	Modern subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+52	Old subcorpus	S	NPnom V NPnom в NPloc (tangle)	Singular	No negation	No intensifier
+53	Old subcorpus	S	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+54	Old subcorpus	S	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+55	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	окончательно
+56	Old subcorpus	S	NPnom V NPacc (tangle)	Plural	Negation	No intensifier
+57	Old subcorpus	S	NPnom V NPacc (confuse)	Singular	No negation	ещё более
+58	Old subcorpus	S	NPnom V NPacc (tangle)	Singular	Negation	No intensifier
+59	Old subcorpus	S	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+60	Old subcorpus	S	NPnom V NPacc (mix up)	Plural	No negation	совершенно
+61	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+62	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	Negation	No intensifier
+63	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	до того… что… 
+64	Old subcorpus	S	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+65	Old subcorpus	S	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+66	Old subcorpus	S	Conj V NPacc (tangle)	Plural	Negation	No intensifier
+67	Old subcorpus	S	NPnom V NPacc NPins (confuse)	Singular	No negation	No intensifier
+68	Old subcorpus	S	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+69	Old subcorpus	S	NPnom V NPacc (tangle)	Singular	No negation	No intensifier
+70	Old subcorpus	S	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+71	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+72	Old subcorpus	S	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+73	Old subcorpus	S	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+74	Old subcorpus	S	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+75	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+76	Old subcorpus	S	NPnom V NPacc (tangle)	Singular	No negation	No intensifier
+77	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+78	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+79	Old subcorpus	S	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+80	Old subcorpus	S	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+81	Old subcorpus	S	NPnom V (confuse)	No direct object	No negation	No intensifier
+82	Old subcorpus	S	Conj V NPacc (tangle)	Plural	No negation	No intensifier
+83	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+84	Old subcorpus	S	NPnom V Vinf NPacc (mix up)	Plural	Negation	No intensifier
+85	Old subcorpus	S	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+86	Old subcorpus	S	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+87	Old subcorpus	S	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+88	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	совершенно
+89	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+90	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+91	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+92	Old subcorpus	S	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+93	Old subcorpus	S	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+94	Old subcorpus	S	NPnom V NPacc (tangle)	Plural	Negation	No intensifier
+95	Old subcorpus	S	NPnom V NPacc с NPins (mix up)	Plural	No negation	No intensifier
+96	Old subcorpus	S	NPnom V NPacc NPins (tangle)	Plural	No negation	No intensifier
+97	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	настолько… что
+98	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+99	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+100	Old subcorpus	S	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+101	Old subcorpus	S	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+102	Old subcorpus	S	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+103	Old subcorpus	S	NPnom V NPacc NPins (tangle)	Plural	No negation	No intensifier
+104	Old subcorpus	S	NPnom V NPacc NPins (confuse)	Singular	No negation	No intensifier
+105	Old subcorpus	S	NPnom V NPacc NPins (mix up)	Plural	No negation	No intensifier
+106	Old subcorpus	S	NPnom V NPacc NPins (confuse)	Plural	No negation	No intensifier
+107	Newspaper corpus	S	NPnom V NPacc по NPdat (tangle)	Plural	No negation	No intensifier
+108	Newspaper corpus	S	NPnom V NPacc NPdat (tangle)	Singular	No negation	No intensifier
+109	Newspaper corpus	S	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+110	Newspaper corpus	S	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+111	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+112	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+113	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+114	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	Negation	No intensifier
+115	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	Negation	No intensifier
+116	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+117	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+118	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	Negation	No intensifier
+119	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+120	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+121	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+122	Modern subcorpus	Simplex	NPnom V Vinf (mix up)	No direct object	Negation	No intensifier
+123	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+124	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+125	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+126	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+127	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+128	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+129	Modern subcorpus	Simplex	NPnom V Vinf NPacc и NPacc (mix up)	Plural	Negation	No intensifier
+130	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+131	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+132	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+133	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+134	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+135	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+136	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+137	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+138	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	Negation	No intensifier
+139	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+140	Modern subcorpus	Simplex	NPnom V NPacc NPins (confuse)	Singular	No negation	No intensifier
+141	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+142	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+143	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	Negation	No intensifier
+144	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+145	Modern subcorpus	Simplex	NPnom V CL (mix up)	Clause sentence	No negation	No intensifier
+146	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+147	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+148	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+149	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+150	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Singular	Negation	No intensifier
+151	Modern subcorpus	Simplex	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+152	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	Negation	No intensifier
+153	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+154	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+155	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+156	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+157	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+158	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+159	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+160	Modern subcorpus	Simplex	NPnom V CL (mix up)	Clause sentence	No negation	No intensifier
+161	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+162	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+163	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+164	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+165	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+166	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+167	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+168	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+169	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+170	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+171	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+172	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+173	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	Negation	No intensifier
+174	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+175	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+176	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+177	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+178	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+179	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+180	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+181	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+182	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	Negation	No intensifier
+183	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+184	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+185	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+186	Modern subcorpus	Simplex	NPnom V Vinf NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+187	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+188	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+189	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	Negation	No intensifier
+190	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+191	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+192	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+193	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+194	Modern subcorpus	Simplex	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+195	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	No negation	No intensifier
+196	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	Negation	No intensifier
+197	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+198	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+199	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Singular	Negation	No intensifier
+200	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+201	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+202	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+203	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+204	Modern subcorpus	Simplex	NPnom V Vinf NPacc и NPacc (mix up)	Plural	Negation	No intensifier
+205	Modern subcorpus	Simplex	Conj NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+206	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+207	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+208	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+209	Modern subcorpus	Simplex	NPnom V Vinf NPacc (mix up)	Plural	No negation	No intensifier
+210	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+211	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+212	Modern subcorpus	Simplex	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+213	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+214	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	Negation	No intensifier
+215	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	Negation	No intensifier
+216	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+217	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	Negation	No intensifier
+218	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	Negation	No intensifier
+219	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+220	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+221	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+222	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+223	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+224	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+225	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+226	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+227	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+228	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+229	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+230	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+231	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	Negation	No intensifier
+232	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+233	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+234	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+235	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+236	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	Negation	No intensifier
+237	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+238	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+239	Modern subcorpus	Simplex	NPnom V NPacc (stammer)	Plural	No negation	No intensifier
+240	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+241	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	Negation	No intensifier
+242	Modern subcorpus	Simplex	NPnom V CL (mix up)	Clause sentence	No negation	No intensifier
+243	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+244	Modern subcorpus	Simplex	NPnom V NPacc (stammer)	Plural	No negation	No intensifier
+245	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+246	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+247	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+248	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+249	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+250	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+251	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+252	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+253	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+254	Modern subcorpus	Simplex	NPnom V (confuse)	No direct object	No negation	No intensifier
+255	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+256	Modern subcorpus	Simplex	NPnom V Vinf NPacc (confuse)	Singular	Negation	No intensifier
+257	Modern subcorpus	Simplex	NPnom V (confuse)	No direct object	No negation	No intensifier
+258	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+259	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+260	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Singular	Negation	No intensifier
+261	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+262	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+263	Modern subcorpus	Simplex	NPnom V CL (mix up)	Clause sentence	No negation	No intensifier
+264	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+265	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	Negation	No intensifier
+266	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	Negation	No intensifier
+267	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	Negation	No intensifier
+268	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+269	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Singular	No negation	No intensifier
+270	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+271	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+272	Modern subcorpus	Simplex	NPnom V NPacc (mix up)	Plural	No negation	No intensifier
+273	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+274	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+275	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+276	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+277	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+278	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	No negation	No intensifier
+279	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+280	Modern subcorpus	Simplex	NPnom V NPacc (cover)	Singular	No negation	No intensifier
+281	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+282	Modern subcorpus	Simplex	NPnom V Vinf NPacc NPins (tangle)	Singular	No negation	No intensifier
+283	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+284	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+285	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+286	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+287	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+288	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+289	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+290	Modern subcorpus	Simplex	NPnom V Vinf NPacc и NPacc (mix up)	Plural	Negation	No intensifier
+291	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+292	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+293	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+294	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+295	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+296	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+297	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+298	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Plural	Negation	No intensifier
+299	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	No negation	No intensifier
+300	Modern subcorpus	Simplex	NPnom V NPacc (tangle)	Singular	No negation	No intensifier
+301	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+302	Modern subcorpus	Simplex	NPnom V Vinf NPacc c NPins (mix up)	Plural	Negation	No intensifier
+303	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	Negation	No intensifier
+304	Modern subcorpus	Simplex	NPnom V NPacc (stammer)	Plural	No negation	No intensifier
+305	Modern subcorpus	Simplex	NPnom V (mix up)	No direct object	No negation	No intensifier
+306	Modern subcorpus	Simplex	NPnom V NPacc (confuse)	Singular	Negation	No intensifier
+307	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	No negation	No intensifier
+308	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+309	Modern subcorpus	Simplex	NPnom V NPacc c NPins (mix up)	Plural	Negation	No intensifier
+310	Modern subcorpus	Simplex	NPnom V NPacc и NPacc (mix up)	Plural	No negation	No intensifier
+311	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+312	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+313	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+314	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+315	Modern subcorpus	V	NPnom V NPacc (tangle into)	Singular	No negation	No intensifier
+316	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+317	Modern subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+318	Modern subcorpus	V	NPnom V в NPacc (tangle into)	No direct object	Negation	No intensifier
+319	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+320	Modern subcorpus	V	NPnom V NPacc (tangle into)	Plural	No negation	No intensifier
+321	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+322	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+323	Modern subcorpus	V	NPnom V Vinf NPacc (tangle into)	Plural	Negation	No intensifier
+324	Modern subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+325	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+326	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+327	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+328	Modern subcorpus	V	NPnom V Vinf NPacc (tangle into)	Plural	Negation	No intensifier
+329	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+330	Modern subcorpus	V	NPnom V NPacc (tangle into)	Plural	Negation	No intensifier
+331	Modern subcorpus	V	NPnom V NPacc (tangle into)	Plural	Negation	No intensifier
+332	Modern subcorpus	V	NPnom V NPacc ADV (tangle into)	Singular	Negation	No intensifier
+333	Modern subcorpus	V	Conj V NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+334	Modern subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+335	Modern subcorpus	V	NPnom V Vinf NPacc (tangle into)	Singular	Negation	No intensifier
+336	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+337	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+338	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	No negation	No intensifier
+339	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+340	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+341	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+342	Modern subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+343	Modern subcorpus	V	NPnom V Vinf NPacc (tangle into)	Singular	Negation	No intensifier
+344	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	No negation	No intensifier
+345	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+346	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+347	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+348	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+349	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+350	Modern subcorpus	V	NPnom V NPacc ADV (tangle into)	Singular	No negation	No intensifier
+351	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+352	Modern subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+353	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+354	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+355	Modern subcorpus	V	NPnom V NPacc (tangle into)	Plural	No negation	No intensifier
+356	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+357	Modern subcorpus	V	NPnom V Vinf NPacc (tangle into)	Plural	No negation	No intensifier
+358	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+359	Modern subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+360	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+361	Modern subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+362	Modern subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+363	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+364	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+365	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+366	Modern subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+367	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+368	Modern subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+369	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+370	Modern subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+371	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+372	Old subcorpus	V	NPnom V NPacc (tangle into)	Plural	Negation	No intensifier
+373	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+374	Old subcorpus	V	NPnom V NPacc (tangle into)	Singular	No negation	No intensifier
+375	Old subcorpus	V	NPnom V NPacc (tangle into)	Singular	No negation	No intensifier
+376	Old subcorpus	V	NPnom V в NPacc (tangle into)	No direct object	Negation	No intensifier
+377	Old subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+378	Old subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+379	Old subcorpus	V	NPnom V Vinf NPacc (tangle into)	Plural	No negation	No intensifier
+380	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+381	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+382	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+383	Old subcorpus	V	NPnom V Vinf NPacc (tangle into)	Singular	Negation	No intensifier
+384	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+385	Old subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+386	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+387	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+388	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	всё больше
+389	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	No negation	No intensifier
+390	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+391	Old subcorpus	V	Conj V NPacc (tangle into)	Singular	Negation	No intensifier
+392	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+393	Old subcorpus	V	NPnom V NPacc (tangle into)	Singular	No negation	No intensifier
+394	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	No negation	No intensifier
+395	Old subcorpus	V	Conj V NPacc (tangle into)	Singular	No negation	No intensifier
+396	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+397	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+398	Old subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+399	Old subcorpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+400	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	No negation	No intensifier
+401	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+402	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+403	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+404	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+405	Old subcorpus	V	NPnom V NPacc в NPacc (stare into)	Plural	No negation	No intensifier
+406	Old subcorpus	V	NPnom V NPacc (tangle into)	Plural	Negation	No intensifier
+407	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+408	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+409	Old subcorpus	V	NPnom V NPacc (tangle into)	Plural	No negation	No intensifier
+410	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+411	Old subcorpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+412	Old subcorpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+413	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+414	Newspaper corpus	V	NPnom V NPacc (tangle into)	Plural	Negation	No intensifier
+415	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+416	Newspaper corpus	V	NPnom V NPacc (tangle into)	Plural	Negation	No intensifier
+417	Newspaper corpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+418	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+419	Newspaper corpus	V	NPnom V NPacc (tangle into)	Plural	Negation	No intensifier
+420	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+421	Newspaper corpus	V	Conj V NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+422	Newspaper corpus	V	NPnom V NPacc (tangle into)	Plural	Negation	No intensifier
+423	Newspaper corpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+424	Newspaper corpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+425	Newspaper corpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+426	Newspaper corpus	V	NPnom V NPacc (tangle into)	Plural	No negation	No intensifier
+427	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+428	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	No negation	No intensifier
+429	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+430	Newspaper corpus	V	NPnom V NPacc (tangle into)	Plural	Negation	No intensifier
+431	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	No negation	No intensifier
+432	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+433	Newspaper corpus	V	NPnom V Vinf NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+434	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+435	Newspaper corpus	V	NPnom V NPacc (tangle into)	Singular	Negation	No intensifier
+436	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+437	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+438	Newspaper corpus	V	NPnom V NPacc в NPacc (tangle into)	Plural	Negation	No intensifier
+439	Modern subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+440	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+441	Modern subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	вконец
+442	Modern subcorpus	Za	NPnom V NPacc (mix up)	Singular	No negation	так
+443	Modern subcorpus	Za	NPnom V NPacc в NPacc (tangle into)	Plural	No negation	No intensifier
+444	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	вконец
+445	Modern subcorpus	Za	NPnom V Vinf NPacc (confuse)	Singular	No negation	No intensifier
+446	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+447	Modern subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	вконец
+448	Modern subcorpus	Za	Conj V NPacc NPins (confuse)	Singular	No negation	ещё больше
+449	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	окончательно
+450	Modern subcorpus	Za	NPnom V (confuse)	No direct object	No negation	ещё больше
+451	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+452	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+453	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+454	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	сильно
+455	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+456	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+457	Modern subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+458	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+459	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+460	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+461	Modern subcorpus	Za	NPnom V (confuse)	No direct object	No negation	No intensifier
+462	Modern subcorpus	Za	Conj V NPacc в NPacc (tangle into)	Singular	Negation	No intensifier
+463	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+464	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+465	Modern subcorpus	Za	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+466	Modern subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+467	Modern subcorpus	Za	NPnom V NPacc NPins (confuse)	Singular	No negation	No intensifier
+468	Modern subcorpus	Za	NPnom V NPacc (mix up)	Singular	Negation	No intensifier
+469	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+470	Modern subcorpus	Za	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+471	Modern subcorpus	Za	NPnom V (confuse)	No direct object	No negation	No intensifier
+472	Modern subcorpus	Za	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+473	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+474	Modern subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	окончательно
+475	Modern subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+476	Modern subcorpus	Za	NPnom V NPacc в NPacc (tangle into)	Plural	No negation	No intensifier
+477	Modern subcorpus	Za	NPnom V Vinf NPacc (confuse)	Singular	No negation	No intensifier
+478	Modern subcorpus	Za	NPnom V NPacc в NPloc (tangle into)	Plural	No negation	No intensifier
+479	Modern subcorpus	Za	NPnom V Vinf NPacc (confuse)	Singular	No negation	No intensifier
+480	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+481	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+482	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+483	Modern subcorpus	Za	NPnom V NPacc NPins (confuse)	Singular	No negation	окончательно
+484	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+485	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+486	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	окончательно
+487	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+488	Modern subcorpus	Za	NPnom V Vinf NPacc (cover)	Plural	No negation	No intensifier
+489	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+490	Modern subcorpus	Za	NPnom V Vinf (confuse)	No direct object	No negation	No intensifier
+491	Modern subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+492	Modern subcorpus	Za	NPnom V Vinf (confuse)	No direct object	No negation	No intensifier
+493	Modern subcorpus	Za	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+494	Modern subcorpus	Za	NPnom V NPacc (confuse)	Plural	Negation	больше
+495	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	Negation	No intensifier
+496	Modern subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+497	Modern subcorpus	Za	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+498	Modern subcorpus	Za	NPnom V (confuse)	No direct object	Negation	No intensifier
+499	Modern subcorpus	Za	NPnom V NPacc (confuse)	Singular	Negation	No intensifier
+500	Old subcorpus	Za	NPnom V NPacc NPins (confuse)	Singular	No negation	No intensifier
+501	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	Negation	No intensifier
+502	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+503	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+504	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+505	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+506	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+507	Old subcorpus	Za	Conj V NPacc (tangle)	Plural	No negation	No intensifier
+508	Old subcorpus	Za	NPnom V (confuse)	No direct object	No negation	No intensifier
+509	Old subcorpus	Za	NPnom V (confuse)	No direct object	No negation	No intensifier
+510	Old subcorpus	Za	NPnom V NPacc в NPacc (tangle)	Plural	No negation	No intensifier
+511	Old subcorpus	Za	NPnom V NPacc c NPins (tangle)	Singular	No negation	No intensifier
+512	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+513	Old subcorpus	Za	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+514	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+515	Old subcorpus	Za	NPnom V Vinf NPacc (confuse)	Plural	No negation	No intensifier
+516	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+517	Old subcorpus	Za	NPnom V NPacc в NPloc (tangle)	Plural	No negation	No intensifier
+518	Old subcorpus	Za	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+519	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+520	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+521	Old subcorpus	Za	NPnom V NPacc в NPacc (tangle into)	Singular	No negation	No intensifier
+522	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+523	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+524	Old subcorpus	Za	NPnom V NPacc в NPacc (tangle into)	Plural	No negation	No intensifier
+525	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+526	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+527	Old subcorpus	Za	NPnom V NPacc NPins (confuse)	Singular	Negation	No intensifier
+528	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+529	Old subcorpus	Za	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+530	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+531	Old subcorpus	Za	NPnom V NPacc NPins (confuse)	Singular	No negation	No intensifier
+532	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+533	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+534	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	вконец
+535	Old subcorpus	Za	Conj V NPacc NPins (confuse)	Singular	Negation	No intensifier
+536	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	всё больше
+537	Old subcorpus	Za	NPnom V Vinf NPacc (confuse)	Singular	No negation	No intensifier
+538	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+539	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+540	Old subcorpus	Za	NPnom V Vinf NPacc (confuse)	Singular	Negation	No intensifier
+541	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+542	Old subcorpus	Za	NPnom V NPacc NPins (confuse)	Singular	Negation	No intensifier
+543	Old subcorpus	Za	NPnom V NPacc NPins (confuse)	Singular	Negation	No intensifier
+544	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё более
+545	Old subcorpus	Za	NPnom V (confuse)	No direct object	No negation	No intensifier
+546	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	ещё более
+547	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	чрезвычайно
+548	Old subcorpus	Za	NPnom V NPacc (confuse)	Singular	Negation	No intensifier
+549	Old subcorpus	Za	NPnom V NPacc (tangle)	Plural	No negation	No intensifier
+550	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	ещё более
+551	Old subcorpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+552	Old subcorpus	Za	NPnom V NPacc NPins (confuse)	Plural	No negation	No intensifier
+553	Old subcorpus	Za	NPnom V NPacc NPins (confuse)	Singular	No negation	No intensifier
+554	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+555	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+556	Newspaper corpus	Za	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+557	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	так
+558	Newspaper corpus	Za	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+559	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё сильнее
+560	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+561	Newspaper corpus	Za	NPnom V (confuse)	No direct object	No negation	ещё более
+562	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+563	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+564	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+565	Newspaper corpus	Za	NPnom V Vinf NPacc (confuse)	Singular	Negation	No intensifier
+566	Newspaper corpus	Za	NPnom V NPacc (tangle)	Singular	No negation	ещё более
+567	Newspaper corpus	Za	NPnom V Vinf NPacc NPins (confuse)	Singular	Negation	No intensifier
+568	Newspaper corpus	Za	Conj V NPacc (confuse)	Singular	Negation	No intensifier
+569	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	совсем
+570	Newspaper corpus	Za	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+571	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+572	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+573	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+574	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+575	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+576	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+577	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+578	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	ещё сильнее
+579	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+580	Newspaper corpus	Za	NPnom V Vinf NPacc (confuse)	Plural	Negation	No intensifier
+581	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+582	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+583	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+584	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	окончательно
+585	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+586	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	сильнее
+587	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+588	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+589	Newspaper corpus	Za	NPnom V NPacc NPins (confuse)	Plural	No negation	No intensifier
+590	Newspaper corpus	Za	NPnom V (confuse)	No direct object	No negation	No intensifier
+591	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+592	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+593	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+594	Newspaper corpus	Za	NPnom V NPacc (tangle)	Singular	No negation	ещё сильнее
+595	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+596	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+597	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+598	Newspaper corpus	Za	NPnom V Vinf NPacc (tangle)	Singular	No negation	No intensifier
+599	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+600	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+601	Newspaper corpus	Za	NPnom V (confuse)	No direct object	No negation	ещё больше
+602	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+603	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+604	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+605	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+606	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё более
+607	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+608	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё более
+609	Newspaper corpus	Za	NPnom V NPacc NPins (confuse)	Singular	Negation	No intensifier
+610	Newspaper corpus	Za	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+611	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+612	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+613	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+614	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	всё более
+615	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+616	Newspaper corpus	Za	NPnom V NPacc (confuse)	No direct object	No negation	No intensifier
+617	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+618	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+619	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+620	Newspaper corpus	Za	NPnom V Vinf NPacc (confuse)	Singular	No negation	No intensifier
+621	Newspaper corpus	Za	NPnom V NPacc NPins (confuse)	Plural	No negation	No intensifier
+622	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+623	Newspaper corpus	Za	NPnom V Vinf NPacc NPins (confuse)	Plural	No negation	No intensifier
+624	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+625	Newspaper corpus	Za	NPnom V Vinf NPacc (confuse)	Plural	No negation	до состояния, когда…
+626	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+627	Newspaper corpus	Za	NPnom V Vinf NPacc (confuse)	Singular	No negation	No intensifier
+628	Newspaper corpus	Za	NPnom V NPacc (cover)	Plural	No negation	No intensifier
+629	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+630	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	окончательно
+631	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	No intensifier
+632	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	Negation	не настолько, чтобы…
+633	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+634	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	до крайности
+635	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	ещё больше
+636	Newspaper corpus	Za	NPnom V NPacc (confuse)	Singular	No negation	No intensifier
+637	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	окончательно
+638	Newspaper corpus	Za	NPnom V NPacc (confuse)	Plural	No negation	вконец

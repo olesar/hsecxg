@@ -1,0 +1,13 @@
+﻿
+#dat=read.table("Database simplified, case study 3.csv", sep=";",
+header=TRUE)
+dat=read.table("data_3.txt", sep="\t", header=TRUE)
+
+summary(dat)
+library(party)
+library(lattice)
+dat.cforest=cforest(Prefix~Number+Negation+Intensifier, dat)
+dat.varimp=varimp(dat.cforest)
+dotplot(sort(dat.varimp))
+dat.ctree=ctree(Prefix~Number+Negation+Intensifier, dat)
+plot(dat.ctree)

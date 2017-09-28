@@ -1,0 +1,22 @@
+﻿Case study 3
+
+The column “Prefix” contains the verb prefixes that are relevant for the Secondary Imperfectives in the aspectual triplets involving putat’: s-, pere-, za- and v-. “Simplex” refers to the simplex verb. 
+
+The column “Construction” contains constructions. I use the following abbreviations: 
+ADV – adverb
+CL – clause
+Conj – conjunction
+NPacc – noun phrase in accusative
+NPdat – noun phrase in dative
+NPgen – noun phrase in genitive
+NPins – noun phrase in instrumental
+NPloc – noun phrase in locative
+NPnom – noun phrase in nominative
+V – verb
+Vinf – verb in infinitive
+
+The column “Number” contains the number of direct objects in the relevant sentences: “Singular,” “Plural” or “No (overtly expressed) object”.
+
+The column “Negation” shows whether the relevant sentence involves negation (“Negation” vs “No negation”).
+
+The column “Intensifier” shows whether the relevant sentence involves the use intensifiers (“Intensifier” vs. “No intensifier”). 

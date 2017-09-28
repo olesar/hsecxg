@@ -1,0 +1,8 @@
+﻿
+library(lattice)
+library(party)
+
+dat=read.csv("database_simplified.csv", sep=";", header=TRUE)
+dat.ctree=ctree(Prefix~Construction+Semantics, dat)
+plot(dat.ctree)
+
