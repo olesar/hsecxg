@@ -1,0 +1,121 @@
+---
+title: "Conditional inference trees and random forests"
+output: word_document
+date: "February 10, 2017"
+---
+
+```{r include = FALSE}
+library(party)
+```
+
+# Suffix vs. No suffix
+
+The aim is to compare rival word-formation strategies in Russian. The data include compound agent nouns and the analysis aims at comparing compounds with an expressed agentive suffix and compounds with a zero suffix. The parameters considered for the comparison are the following: semantics of the compound (agent, instrument, carrier of state), animacy (animate, inanimate), aspect of the verbal base (imperfective, perfective), transitivity of the verbal base (transitive, intransitive), part of speech of the non-verbal base (noun, adjective/adverb, pronoun, numeral), semantic role of the non-verbal base (theme/patient, manner, instrument, etc.), number of occurrences in the RNC.
+The input document is a tab-delimited file in which each row corresponds to a different lemma, while each column corresponds to a different parameter.
+
+## Loading the data
+```{r}
+s.ns <- read.table("s_ns.txt", header = TRUE)
+```
+
+## Conditional inference tree
+
+```{r}
+s.ns_tree <- ctree(suffix ~ semantics + animacy + aspect + transitivity + pos + sr + tokens, data = s.ns)
+plot(s.ns_tree)
+```
+
+## Random forest
+
+```{r}
+s.ns_rf <- cforest(suffix ~ semantics + animacy + aspect + transitivity + pos + sr + tokens, data = s.ns, controls = cforest_unbiased(ntree = 1000, mtry = 2))
+s.ns_varimp <- varimp(s.ns_rf, conditional = TRUE)
+dotchart(sort(s.ns_varimp), main = "Conditional importance of variables")
+```
+
+# Comparison of different suffixes
+
+The same analysis is to be applied to a new database in which the opposition is not between compounds with an expressed suffix and compounds with a zero suffix, but among all the different suffixes. In order to facilitate statistical analyses, suffixes resulting from amalgamation could be merged with the simple suffix to which they are related (e.g. -lka -> - ka), but before doing so, we test whether there are significant differences between the two suffixes.
+
+# -ka vs. -lka
+
+## Loading the data
+```{r}
+suffixes <- read.table("all_simple.txt", header = TRUE)
+```
+
+## Selecting -ka and -lka
+
+```{r}
+ka.lka <- suffixes[suffixes$suffix == "ka" | suffixes$suffix == "lka", ]
+summary(ka.lka)
+```
+
+```{r}
+ka.lka$suffix <- factor(ka.lka$suffix)
+levels(ka.lka$suffix) <- c("ka", "lka")
+summary(ka.lka)
+```
+
+```{r}
+ka.lka_tree <- ctree(suffix ~ semantics + animacy + aspect + transitivity + pos + sr + tokens, data = ka.lka)
+plot(ka.lka_tree)
+```
+
+# -ec vs. -lec
+
+## Selecting -ec and -lec
+
+```{r}
+ec.lec <- suffixes[suffixes$suffix == "ec" | suffixes$suffix == "lec", ]
+summary(ec.lec)
+```
+
+
+```{r}
+ec.lec$suffix <- factor(ec.lec$suffix)
+levels(ec.lec$suffix) <- c("ec", "lec")
+summary(ec.lec)
+```
+
+```{r}
+ec.lec_tree <- ctree(suffix ~ semantics + animacy + aspect + transitivity + pos + sr + tokens, data = ec.lec)
+plot(ec.lec_tree)
+```
+
+# -shchik vs -lshchik
+
+## Selecting -shchik and -lshchik
+
+```{r}
+shchik.lshchik <- suffixes[suffixes$suffix == "shchik" | suffixes$suffix == "lshchik", ]
+summary(shchik.lshchik)
+```
+
+```{r}
+shchik.lshchik$suffix <- factor(shchik.lshchik$suffix)
+levels(shchik.lshchik$suffix) <- c("shchik", "lshchik")
+summary(shchik.lshchik)
+```
+
+```{r}
+shchik.lshchik_tree <- ctree(suffix ~ semantics + animacy + aspect + transitivity + pos + sr + tokens, data = shchik.lshchik)
+plot(shchik.lshchik_tree)
+```
+
+# All suffixes 
+
+The suffixes -shchik/chik and -lshchik have been merged with -nik, the suffix -lka has been merged with -ka, and the suffix -lec has been merged with -ec. We now repeat the analysis using the new database.
+
+## Loading the data
+```{r}
+suffixes.simpler <- read.table("all_simpler.txt", header = TRUE)
+summary(suffixes.simpler)
+```
+
+```{r}
+all_simpler_tree <- ctree(suffix ~ semantics + animacy + aspect + transitivity + pos + sr + tokens, data = suffixes.simpler)
+plot(all_simpler_tree)
+```
+
+

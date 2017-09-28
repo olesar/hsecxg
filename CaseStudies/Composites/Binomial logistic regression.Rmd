@@ -1,0 +1,133 @@
+---
+title: "Binomial Logistic Regression"
+output:
+  word_document: default
+  html_document: default
+date: "February 10, 2017"
+---
+
+```{r include = FALSE}
+library(rms); library(visreg); library(car)
+```
+
+# Suffix vs. No suffix
+
+The aim is to compare rival word-formation strategies in Russian. The data include compound agent nouns and the analysis aims at comparing compounds with an expressed agentive suffix and compounds with a zero suffix. The parameters considered for the comparison are the following: semantics of the compound (agent, instrument, carrier of state), animacy (animate, inanimate), aspect of the verbal base (imperfective, perfective), transitivity of the verbal base (transitive, intransitive), part of speech of the non-verbal base (noun, adjective/adverb, pronoun, numeral), semantic role of the non-verbal base (theme/patient, manner, instrument, etc.). 
+The input document is a tab-delimited file in which each row corresponds to a different lemma, while each column corresponds to a different parameter. The last column indicates the number of occurrences of each lemma in the RNC.
+
+## Loading the data
+```{r}
+s.ns <- read.table("s_ns.txt", header = TRUE)
+```
+
+## Multiplying each row for the number of tokens indicated in the last column
+```{r}
+s.ns1 <- s.ns[1:831,]
+ncol(s.ns1)-1
+s.ns2 <- s.ns1[rep(row.names(s.ns1), s.ns1$tokens), 1:8]
+```
+
+## Creating a new table
+```{r}
+write.table(s.ns2, file = "C:/Users/CHIARA/Documents/Compounds_Binomial Logistic Regression/s_ns_tokens.txt", quote = FALSE, sep = "\t", row.names = FALSE)
+s_ns <- read.table("s_ns_tokens.txt", header = TRUE)
+summary(s_ns)
+```
+
+## Applying Logistic Regression
+```{r}
+lrm(formula = suffix ~ semantics + animacy + aspect + transitivity + pos + sr, data = s_ns)
+```
+
+The model is significant since the p-value is smaller than 0.05. The concordance index C indicates that the model discriminates well (>0.80). The reference level is "no suffix". Positive coefficients boost the chances of "suffix", while negative coefficients boost the chanches of "no suffix". The intercept coefficient tells us that when all predictors are at their reference levels the chances of "suffix" are higher than the chances of "no suffix".
+
+## Generalized linear models
+
+We initially apply the glm() function including all parameters.
+
+```{r}
+glm.1 <- glm (suffix ~ semantics + animacy + aspect + transitivity + pos + sr, data = s_ns, family ="binomial")
+summary(glm.1)
+```
+
+Then we remove one parameter and compare the two models with ANOVA.
+
+```{r}
+glm.2 <- glm (suffix ~ semantics + animacy + aspect + transitivity + pos, data = s_ns, family ="binomial")
+summary(glm.2)
+```
+
+```{r}
+anova(glm.2, glm.1, test = "Chisq")
+```
+
+If the greater model reduces the deviance significantly in comparison with the model without a predictor, this is sign that the predictor is worth keeping in the model.
+
+Now we remove another parameter and repeat the same operation.
+
+```{r}
+glm.3 <- glm (suffix ~ semantics + animacy + aspect + transitivity, data = s_ns, family ="binomial")
+summary(glm.3)
+```
+
+```{r}
+anova(glm.3, glm.2, test = "Chisq")
+```
+
+We repeat the same operation until we are left with one parameter only.
+
+```{r}
+glm.4 <- glm (suffix ~ semantics + animacy + aspect, data = s_ns, family ="binomial")
+summary(glm.4)
+```
+
+```{r}
+anova(glm.4, glm.3, test = "Chisq")
+```
+
+```{r}
+glm.5 <- glm (suffix ~ semantics + animacy, data = s_ns, family ="binomial")
+summary(glm.5)
+```
+
+```{r}
+anova(glm.5, glm.4, test = "Chisq")
+```
+
+```{r}
+glm.6 <- glm (suffix ~ semantics, data = s_ns, family ="binomial")
+summary(glm.6)
+```
+
+```{r}
+anova(glm.6, glm.5, test = "Chisq")
+```
+
+It seems that all parameters are significant and are worth keeping in the model.
+
+## Stepwise selection
+
+```{r}
+glm.backwards = step(glm.1)
+summary(glm.backwards)
+```
+
+## Testing possible interactions
+
+Interactions are observed when the effect of one predictor on the outcome depends on the value of another variable. We now test the interaction between the predictor "semantics" and the predictor "animacy" using a glm model. Then we test the results with the results obtained before using ANOVA.
+
+```{r}
+glm.int <- glm(suffix ~ semantics*animacy + aspect + transitivity + pos + sr, data = s_ns, family = binomial)
+summary(glm.int)
+```
+
+```{r}
+anova(glm.1, glm.int, test = "Chisq")
+```
+
+These relationships can be visualized with the function visreg().
+
+```{r}
+visreg(glm.int, "semantics", by = "animacy")
+```
+
